@@ -23,7 +23,7 @@ const Question2 = () => {
         </p>
       </label>
       <button className="btn">Login</button>
-      <a className="forget-link" href="/">Forget Password?</a>
+      <a className="forget-link" href="/">Forgot Password?</a>
     </form>
     </>
   );
