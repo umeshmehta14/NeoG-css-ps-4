@@ -1,0 +1,26 @@
+.info-form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 1rem auto 0rem;
+    height: 45vh;
+    justify-content: space-between;
+    border: 1px solid gray;
+    padding: 1.5rem 1rem;
+}
+
+.inp{
+    border: 1px solid #b8b7b7;
+    border-radius: 4px;
+    padding: 0.2rem;
+}
+
+.btn{
+    padding: 0.4rem 0.2rem;
+
+    color: white;
+    background-color: #353535;
+    border-radius: 6px;
+    margin-top: 0.5rem;
+    border: none;
+}
